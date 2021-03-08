@@ -175,4 +175,4 @@ async def info(ctx):
 async def invite(ctx):
 	await ctx.send("http://discord.com/oauth2/authorize?client_id=" + bid + "&permissions=8&scope=bot")
 
-bot.run('ODE2NDg3MzM4MDAyODc0MzY5.YD7rFg.n_YTNxDllWHNIsX2KMTKGecBfYQ')
+bot.run('#BotToken')
